@@ -1,0 +1,11 @@
+JAVA
+
+Compilation:
+javac -g File.java
+Execution:
+java Class arg1 arg2 ...
+
+PYTHON
+
+Compilation & execution:
+python File.py
