@@ -1,3 +1,5 @@
+This executions are using windows:
+
 JAVA
 
 Compilation:
@@ -9,3 +11,7 @@ PYTHON
 
 Compilation & execution:
 python File.py
+
+PHP
+
+C:\PHP5\php.exe -f "C:\PATH\file.php" -- -arg1 -arg2 -arg3
