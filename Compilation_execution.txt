@@ -15,3 +15,11 @@ python File.py
 PHP
 
 C:\PHP5\php.exe -f "C:\PATH\file.php" -- -arg1 -arg2 -arg3
+
+
+C++
+
+Install a C++ compiler like MinGW:
+http://www.mingw.org/wiki/HOWTO_Install_the_MinGW_GCC_Compiler_Suite
+then, execute the command:
+g++ File.cpp -o outputfile.exe
